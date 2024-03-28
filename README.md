@@ -14,7 +14,7 @@ $$d(i,j) = \sqrt{2 \times (1- \rho_{i,j})}$$
 
 - Build an Ultrametric Distance $d'(i,j)$ starting from $d(i,j)$. The Ultrametric distance between $i$ and $j$ is defined as the maximum value among all the pairwise distances evaluated in the path that connects $i$ and $j$. For example:
 
-$$d'(A,G)=$max(3,2,8,7,4,1,3)=8$$
+$$d'(A,G)=max(3,2,8,7,4,1,3)=8$$
 
 <p align="center">
 <img width="372" alt="Screenshot 2024-03-28 at 19 42 15" src="https://github.com/vcnzbrgd/Stocks-Hierarchical-Clustering/assets/127797045/0218708f-10ba-46a6-8515-6522cdf90f7c">

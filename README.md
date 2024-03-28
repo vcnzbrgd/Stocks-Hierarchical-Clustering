@@ -8,4 +8,4 @@ reflects an aggregation somewhat similar to the one achievable labelling stocks 
 The steps of the process are:
 - Create a Distance metric $$d$$ from pairwise stocks correlation matrix. The distance is defined as: 
 
-$$d(i,j) = \sqrt{2 \times (1- \rho_{i,j}}$$
+$$d(i,j) = \sqrt{2 \times (1- \rho_{i,j})}$$

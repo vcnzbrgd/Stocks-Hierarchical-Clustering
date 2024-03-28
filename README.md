@@ -6,7 +6,7 @@ information provided by the time series of asset prices. He demonstrates that th
 reflects an aggregation somewhat similar to the one achievable labelling stocks by sector.
 
 The steps of the process are:
-- Create a Distance matrix $d$ from pairwise stocks correlation matrix. The distance between asset $i$ and stock $j$ is defined as: 
+- Create a Distance matrix $d$ from the matrix of pairwise stocks correlation. The distance between asset $i$ and stock $j$ is defined as: 
 
 $$d(i,j) = \sqrt{2 \times (1- \rho_{i,j})}$$
 

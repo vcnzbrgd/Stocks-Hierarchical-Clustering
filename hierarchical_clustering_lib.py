@@ -201,7 +201,7 @@ class HierarchicalClustering():
 
 
 
-def plot_dendrogram(ultra_dist):
+def plot_dendrogram(ultra_dist, ):
     """
     Plots a dendrogram based on the ultrametric distance matrix.
 

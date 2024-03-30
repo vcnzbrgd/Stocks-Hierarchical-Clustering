@@ -21,3 +21,5 @@ $$d'(A,G)=max(3,2,8,7,4,1,3)=8$$
 </p>
 
 The resulting Ultrametric Distance Matrix $D'$ can also serve as input for a portfolio construction approach that improves the traditional and unstable Mean-Variance optimization as shown in De Prado (2016).
+
+The findings from applying hierarchical clustering to S&P 500 constituents are detailed in the file named "sp500_members_clustering.ipynb." The dendrogram effectively illustrates the formation of stock groupings that align with the similarities found within the banking sector, REITs, the healthcare/biotechnology industry, industrials and energy sector.

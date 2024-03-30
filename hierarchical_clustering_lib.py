@@ -24,6 +24,7 @@ class HierarchicalClustering():
         cache (dict): A cache to store downloaded returns data for efficiency.
     """
 
+
     def __init__(self, tickers):
         """
         Initializes the HierarchicalClustering with a list of tickers.
@@ -201,7 +202,7 @@ class HierarchicalClustering():
 
 
 
-def plot_dendrogram(ultra_dist, ):
+def plot_dendrogram(ultra_dist):
     """
     Plots a dendrogram based on the ultrametric distance matrix.
 
